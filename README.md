@@ -9,4 +9,5 @@ Instrucciones para correr el escript
 
 Para instalar en firefox:
 
-Se debe cargar el módulo /usr/lib/libASEP11.so en security devices en firefox. El módulo debería estar en la carpeta correspondiente despu
+Se debe cargar el módulo /usr/lib/libASEP11.so en security devices en firefox. El módulo debería estar en la carpeta correspondiente 
+después de ejecutar el script
